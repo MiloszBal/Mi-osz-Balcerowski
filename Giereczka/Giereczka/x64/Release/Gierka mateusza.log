@@ -1,0 +1,30 @@
+﻿  main (8).cpp
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         with
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:             T=int
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         and
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:             T=float
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(186,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         with
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:             T=int
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         and
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:             T=float
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(187,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(208,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(904,83): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(904,59): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(1008,86): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\Gierka mateusza\main (8).cpp(1008,62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  479 of 503 functions (95.2%) were compiled, the rest were copied from previous compilation.
+    396 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Gierka mateusza.vcxproj -> C:\Users\balce\OneDrive\Dokumenty\GIERKA MATEUSZA\Gierka mateusza\x64\Release\Gierka mateusza.exe
