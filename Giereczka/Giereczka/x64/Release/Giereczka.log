@@ -1,26 +1,29 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (Gierka mateusza.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
   Giereczka.cpp
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         with
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         [
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:             T=int
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         ]
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         and
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         [
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:             T=float
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(43,38): warning C4244:         ]
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         with
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         [
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:             T=int
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         ]
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         and
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         [
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:             T=float
-C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(44,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         with
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:             T=int
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         and
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:             T=float
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(130,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244: "=": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         with
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:             T=int
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         and
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         [
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:             T=float
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(131,38): warning C4244:         ]
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(146,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(653,86): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\Giereczka\Giereczka.cpp(653,62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
   Trwa generowanie kodu
-  73 of 99 functions (73.7%) were compiled, the rest were copied from previous compilation.
-    71 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+  405 of 430 functions (94.2%) were compiled, the rest were copied from previous compilation.
+    332 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
   Zakończono generowanie kodu
   Giereczka.vcxproj -> C:\Users\balce\OneDrive\Dokumenty\GitHub\Projekt-informatyka\Giereczka\x64\Release\Giereczka.exe
